@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheRandomJoshua
 - 👀 I’m interested in: video games, coding, game design, and a handful of other random things
-- 🌱 I’m currently learning: Python!
+- 🌱 I’m currently learning: Python, Java, C++
 - 💞️ I’m looking to collaborate on: nothing for now
 - 📫 How to reach me: no thank you (for now)
 - 😄 Pronouns: he/they
